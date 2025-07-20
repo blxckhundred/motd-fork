@@ -5,7 +5,7 @@ sudo rm /etc/update-motd.d/*
 ```
 2. Run the motd install script: 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/distillium/motd/main/install-motd.sh](https://raw.githubusercontent.com/blxckhundred/motd-fork/refs/heads/main/install-motd.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/blxckhundred/motd-fork/refs/heads/main/install-motd.sh)
 ```
 if sudo:
 ```
